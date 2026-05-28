@@ -1,7 +1,7 @@
 const Homework: React.FC = () => {
     return (
-        <div>
-            <h1>Homework Page</h1>
+        <div className="App">
+            <header className="App-header">Homework Page</header>
         </div>
     );
 };

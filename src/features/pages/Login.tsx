@@ -1,7 +1,7 @@
 const Login: React.FC = () => {
     return (
-        <div>
-            <h1>Login Page</h1>
+        <div className="App">
+            <header className="App-header">Login Page</header>
         </div>
     );
 };

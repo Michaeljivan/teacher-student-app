@@ -1,7 +1,7 @@
 const TeacherAdmin: React.FC = () => {
     return (
-        <div>
-            <h1>Teacher Admin Page</h1>
+        <div className="App">
+            <header className="App-header">Teacher Admin Page</header>
         </div>
     );
 };
